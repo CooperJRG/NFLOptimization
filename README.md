@@ -1,10 +1,12 @@
 #NFLOptimizer
+
 NFLOptimizer is a Java program that helps you create the optimal lineup for your NFL fantasy team on FanDuel. The program combines player statistics and strength of schedule data to suggest the best picks for your team, maximizing your chances of success.
 
 ##Description
 The program takes in two CSV files - one containing player data from FanDuel and the other containing strength of schedule data from FantasyPros. Using this data, NFLOptimizer calculates the best lineup based on fantasy points per game and the strength of the opposing teams. The output is a list of recommended players that make up the optimal lineup for your fantasy team.
 
 ##Getting Started
+
 Prerequisites
 To use NFLOptimizer, you need to have Java installed on your system. If you don't already have Java, you can download it here.
 
